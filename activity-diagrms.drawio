@@ -200,6 +200,12 @@
         <mxCell id="7ko_uH0BUq9JTcSqobsW-17" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Inclui litigios, vemdas, cadea de proprietários e etc...&lt;/span&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7ko_uH0BUq9JTcSqobsW-1">
           <mxGeometry x="110" y="480" width="130" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="OFm8onNesAyRiJ3fkzi0-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="7ko_uH0BUq9JTcSqobsW-1" source="OFm8onNesAyRiJ3fkzi0-1" target="7ko_uH0BUq9JTcSqobsW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFm8onNesAyRiJ3fkzi0-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Em análise se existirá esse caso&lt;/font&gt;&lt;/span&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7ko_uH0BUq9JTcSqobsW-1">
+          <mxGeometry x="320" y="780" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
