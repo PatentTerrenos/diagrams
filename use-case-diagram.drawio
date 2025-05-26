@@ -219,7 +219,7 @@
           <mxGeometry x="40" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-7" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Consultar Histórico de Titularidade&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UQkhpYnnQNE7Mb4DKmMV-1">
-          <mxGeometry x="310" y="290" width="140" height="70" as="geometry" />
+          <mxGeometry x="300" y="305" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="UQkhpYnnQNE7Mb4DKmMV-1" source="UQkhpYnnQNE7Mb4DKmMV-12" target="UQkhpYnnQNE7Mb4DKmMV-22">
           <mxGeometry relative="1" as="geometry" />
@@ -256,10 +256,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-22" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Verificação e validação do envento&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UQkhpYnnQNE7Mb4DKmMV-1">
-          <mxGeometry x="520" y="235" width="130" height="70" as="geometry" />
+          <mxGeometry x="480" y="260" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-24" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Erro na validação&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UQkhpYnnQNE7Mb4DKmMV-1">
-          <mxGeometry x="600" y="375" width="90" height="40" as="geometry" />
+          <mxGeometry x="580" y="405" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;endArrow=none;dashed=1;" edge="1" parent="UQkhpYnnQNE7Mb4DKmMV-1" source="UQkhpYnnQNE7Mb4DKmMV-22" target="UQkhpYnnQNE7Mb4DKmMV-27">
           <mxGeometry relative="1" as="geometry">
@@ -272,7 +272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UQkhpYnnQNE7Mb4DKmMV-27" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Validação bem sucedida&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UQkhpYnnQNE7Mb4DKmMV-1">
-          <mxGeometry x="470" y="370" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="405" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="63YXBIGiArCRQdo5Conm-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.055;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="UQkhpYnnQNE7Mb4DKmMV-1" source="UQkhpYnnQNE7Mb4DKmMV-18" target="UQkhpYnnQNE7Mb4DKmMV-15">
           <mxGeometry relative="1" as="geometry">
