@@ -20,7 +20,7 @@
           <mxGeometry x="760" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-4" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Registrar Cadastro na Blockchain&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="380" width="140" height="70" as="geometry" />
+          <mxGeometry x="505" y="377.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-5" target="XvrRqhm0wOpcZOJGOuho-4">
           <mxGeometry relative="1" as="geometry" />
@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-5" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Cadastrar Terreno&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="130" height="70" as="geometry" />
+          <mxGeometry x="275" y="377.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;dashed=1;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-6" target="XvrRqhm0wOpcZOJGOuho-22">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-6" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Registrar Eventos de Propriedade&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="540" width="130" height="70" as="geometry" />
+          <mxGeometry x="275" y="537.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.089;entryY=0.777;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-2" target="XvrRqhm0wOpcZOJGOuho-5">
           <mxGeometry relative="1" as="geometry" />
@@ -64,8 +64,10 @@
         <mxCell id="XvrRqhm0wOpcZOJGOuho-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.034;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-2" target="XvrRqhm0wOpcZOJGOuho-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XvrRqhm0wOpcZOJGOuho-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;endArrow=none;dashed=1;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-22" target="XvrRqhm0wOpcZOJGOuho-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XvrRqhm0wOpcZOJGOuho-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;endArrow=none;dashed=1;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647.8384624442303" y="728.2442322033648" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-31" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvrRqhm0wOpcZOJGOuho-30">
           <mxGeometry x="0.0135" relative="1" as="geometry">
@@ -73,20 +75,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-22" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Verificação e validação do envento&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="500" y="620" width="130" height="70" as="geometry" />
+          <mxGeometry x="535" y="617.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zngbK375E22GmcGsuP_p-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-26" target="XvrRqhm0wOpcZOJGOuho-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-26" value="Estes eventos podem incluir mudança de titularidade, aumento territorial" style="shape=note;strokeWidth=2;fontSize=10;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="170" y="625" width="110" height="90" as="geometry" />
+          <mxGeometry x="205" y="622.5" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-29" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Erro na validação&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="580" y="730" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;endArrow=none;dashed=1;" edge="1" parent="1" target="XvrRqhm0wOpcZOJGOuho-34" source="XvrRqhm0wOpcZOJGOuho-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="680" as="sourcePoint" />
+            <mxPoint x="205" y="677.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-33" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XvrRqhm0wOpcZOJGOuho-32">
@@ -95,15 +97,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XvrRqhm0wOpcZOJGOuho-34" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Validação bem sucedida&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="720" width="90" height="50" as="geometry" />
+          <mxGeometry x="485" y="717.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zngbK375E22GmcGsuP_p-1" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;Notificar Proprietário&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="715" width="130" height="70" as="geometry" />
+          <mxGeometry x="305" y="712.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zngbK375E22GmcGsuP_p-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.557;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XvrRqhm0wOpcZOJGOuho-6" target="zngbK375E22GmcGsuP_p-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="620" as="sourcePoint" />
-            <mxPoint x="607" y="666" as="targetPoint" />
+            <mxPoint x="495" y="617.5" as="sourcePoint" />
+            <mxPoint x="642" y="663.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zngbK375E22GmcGsuP_p-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zngbK375E22GmcGsuP_p-2">
